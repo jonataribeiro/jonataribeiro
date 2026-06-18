@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Trago a disciplina 
 ### 🔸 Backend (Em Uso)
 <div style="display: inline_block">
   <img align="center" alt="Node.js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Express" height="36" width="55" src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat&logo=express&logoColor=black">
   <img align="center" alt="Fastify" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
   <img align="center" alt="Docker" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
@@ -30,8 +30,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Trago a disciplina 
 <div style="display: inline_block">
   <img align="center" alt="MySQL" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Oracle" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Prisma" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Next.js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Prisma" height="36" width="50" src="https://img.shields.io/badge/Prisma-232F3E?style=flat&logo=prisma&logoColor=white">
+  <img align="center" alt="Next.js" height="36" width="55" src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=black">
   <img align="center" alt="Git" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -44,5 +44,5 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Trago a disciplina 
 
 ### 📫 Como me encontrar:
 - 🌐 **Portfólio:** [jonataribeiro.dev](https://jonataribeiro.dev)
-- 👔 **LinkedIn:** [Jônata Ribeiro | LinkedIn](https://www.linkedin.com/in/jonataribeiro/) *(caso o link mude, pode ajustar aqui)*
+- 👔 **LinkedIn:** [Jônata Ribeiro | LinkedIn](https://www.linkedin.com/in/jonataribeiro/)
 - ✉️ **E-mails:** contato@jonataribeiro.dev | contato@jonataribeiro.tech
