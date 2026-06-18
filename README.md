@@ -2,45 +2,46 @@
 
 👨‍💻 **Desenvolvedor Full-Stack | Analista de Sistemas**
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Trago a disciplina do setor público para a engenharia, com foco em escrever código limpo (**Clean Code**), criar arquiteturas organizadas e entregar interfaces polidas com excelente UI/UX.
+Sou apaixonado por tecnologia e engenharia de software. Busco aplicar rigor técnico e organização no desenvolvimento, com foco em escrever código limpo (**Clean Code**), arquiteturas modulares e interfaces modernas com excelente experiência de usuário (UI/UX).
 
 ---
 
-## 🛠️ Minha Stack Técnica
+## 🛠️ Stack Técnica
 
 ### 🔹 Frontend (Em Uso)
-<div style="display: inline_block">
-  <img align="center" alt="React" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tailwind CSS" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Vite" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
-  <img align="center" alt="HTML5" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+</p>
 
-### 🔸 Backend (Em Uso)
-<div style="display: inline_block">
-  <img align="center" alt="Node.js" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="36" width="55" src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat&logo=express&logoColor=black">
-  <img align="center" alt="Fastify" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
-  <img align="center" alt="Docker" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+### 🔸 Backend & Infraestrutura (Em Uso)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black" height="35" alt="Express" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="40" height="40" alt="Fastify" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+</p>
 
 ### 🗄️ Banco de Dados & Ferramentas (Estudando)
-<div style="display: inline_block">
-  <img align="center" alt="MySQL" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Oracle" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Prisma" height="36" width="50" src="https://img.shields.io/badge/Prisma-232F3E?style=flat&logo=prisma&logoColor=white">
-  <img align="center" alt="Next.js" height="36" width="55" src="https://img.shields.io/badge/Next.js-FFFFFF?style=flat&logo=nextdotjs&logoColor=black">
-  <img align="center" alt="Git" height="36" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Database" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma ORM" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</p>
 
 ---
 
 ### 📈 O que estou fazendo no momento:
-- 💻 Desenvolvendo aplicações web modernas utilizando as melhores práticas do ecossistema JavaScript.
-- 🗄️ Aprofundando em modelagem de dados, queries complexas, joins e ORMs (Prisma).
-- 🧪 Estudando testes automatizados (Vitest) e arquiteturas escaláveis.
+- 💻 Desenvolvendo aplicações web de alta performance utilizando o ecossistema JavaScript moderno.
+- 🗄️ Aprofundando em modelagem relacional, otimização de queries, joins estruturados e ORMs.
+- 🧪 Desenvolvendo testes automatizados robustos e arquiteturas backend escaláveis.
 
 ### 📫 Como me encontrar:
 - 🌐 **Portfólio:** [jonataribeiro.dev](https://jonataribeiro.dev)
